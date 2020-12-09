@@ -1,0 +1,25 @@
+@import  url ( 'https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto&display=swap' );
+
+corpo {
+    cor de fundo : rgb ( 226 ,  226 ,  226 );
+    família da fonte : 'Roboto' , sans-serif;
+}
+
+h1 {
+    família da fonte : 'Bree Serif' , serif;
+    tamanho da fonte : 100 px ;
+}
+
+nav {
+    margem inferior : 20 px ;
+}
+
+# menu {
+    largura : 60 % ;
+    margem : automático;
+}
+
+# título {
+    margem : automático;
+    alinhamento de texto : centro;
+}
