@@ -1,0 +1,139 @@
+{
+    " pizzas " : [
+        {
+            " name " : " Classic Pepperoni " ,
+            " imagem " : " /resources/pizza_1.png " ,
+            " preço " : 14 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        },
+        {
+            " nome " : " italiano " ,
+            " imagem " : " /resources/pizza_2.png " ,
+            " preço " : 14 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        },
+        {
+            " name " : " House Special " ,
+            " imagem " : " /resources/pizza_3.png " ,
+            " preço " : 13 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        }
+    ],
+    " saladas " : [
+        {
+            " nome " : " Green Bowl " ,
+            " imagem " : " /resources/salad_1.png " ,
+            " preço " : 9 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        },
+        {
+            " nome " : " Abacate " ,
+            " imagem " : " /resources/salad_2.png " ,
+            " preço " : 12,99 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        },
+        {
+            " nome " : " Camarão " ,
+            " imagem " : " /resources/salad_3.png " ,
+            " preço " : 13 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        }
+    ],
+    " sobremesas " : [
+        {
+            " nome " : " Torta de Maçã " ,
+            " imagem " : " /resources/dessert_1.png " ,
+            " preço " : 10 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        },
+        {
+            " nome " : " Tarte de laranja " ,
+            " imagem " : " /resources/dessert_2.png " ,
+            " preço " : 10 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        },
+        {
+            " name " : " House Special " ,
+            " imagem " : " /resources/dessert_3.png " ,
+            " preço " : 8 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        }
+    ],
+    " coquetéis " : [
+        {
+            " nome " : " Lemon Squeezy " ,
+            " imagem " : " /resources/cocktail_1.png " ,
+            " preço " : 12,50 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        },
+        {
+            " nome " : " Explosão Laranja " ,
+            " imagem " : " /resources/cocktail_2.png " ,
+            " preço " : 12,50 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        },
+        {
+            " nome " : " Cereja Subtônica " ,
+            " imagem " : " /resources/cocktail_3.png " ,
+            " preço " : 12,50 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        },
+        {
+            " nome " : " Crucio " ,
+            " imagem " : " /resources/cocktail_4.png " ,
+            " preço " : 12,50 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        },
+        {
+            " name " : " Bloody Mess " ,
+            " imagem " : " /resources/cocktail_5.png " ,
+            " preço " : 12,50 ,
+            " descrição " : " " ,
+            " oferta " : " "
+        },
+        {
+            " name " : " Winter is Coming " ,
+            " imagem " : " /resources/cocktail_6.png " ,
+            " preço " : 12,50 ,
+            " descrição " : " " ,
+            " oferta " : " Somente em dezembro! "
+        }
+        
+    ],
+    " natal " : [
+        {
+            " nome " : " Cookies de açúcar " ,
+            " imagem " : " /resources/christmas_1.png " ,
+            " preço " : 10 ,
+            " descrição " : " " ,
+            " oferta " : " Somente em dezembro! "
+        },
+        {
+            " nome " : " Hallacas " ,
+            " imagem " : " /resources/christmas_2.png " ,
+            " preço " : 14,99 ,
+            " descrição " : " " ,
+            " oferta " : " Somente em dezembro! "
+        },
+        {
+            " nome " : " Pan de Jamon " ,
+            " imagem " : " /resources/christmas_3.png " ,
+            " preço " : 13,99 ,
+            " descrição " : " " ,
+            " oferta " : " Somente em dezembro! "
+        }
+    ]
+}
